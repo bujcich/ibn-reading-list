@@ -3,8 +3,6 @@ Reading list of academic papers and articles about intent-based networking (IBN)
 
 Compiled by [Benjamin E. Ujcich](https://personal.benujcich.georgetown.domains/), Georgetown University. To add a suggestion, please email [bu31@georgetown.edu](mailto:bu31@georgetown.edu).
 
-> This material is based upon work supported by the National Science Foundation under Grant No. [CNS-2339882](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339882). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-
 ## Overview
 * [Intent-Based Networking for the Enterprise](https://cacm.acm.org/research/intent-based-networking-for-the-enterprise/), Matthias Falkner, John Apostolopoulos, **ACM CACM November 2022**
 * [Security Challenges of Intent-Based Networking](https://personal.benujcich.georgetown.domains/papers/24_CACM.pdf), Jiwon Kim, Dave (Jing) Tian, Hamed Okhravi, Benjamin E. Ujcich, **ACM CACM July 2024**
@@ -22,3 +20,7 @@ Compiled by [Benjamin E. Ujcich](https://personal.benujcich.georgetown.domains/)
 ## Specifications
 * [RFC 9315: Intent-Based Networking - Concepts and Definitions](https://datatracker.ietf.org/doc/rfc9315/), Alexander Clemm, Laurent Ciavaglia, Lisandro Zambenedetti Granville, Jeff Tantsura, **IETF RFC**
 * [RFC 9316: Intent Classification](https://datatracker.ietf.org/doc/rfc9316/), Chen Li, Olga Havel, Adriana Olariu, Pedro Martinez-Julia, Jéferson Campos Nobre, Diego Lopez, **IETF RFC**
+
+---
+
+This material is based upon work supported by the National Science Foundation under Grant No. [CNS-2339882](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339882). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
