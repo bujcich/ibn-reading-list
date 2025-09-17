@@ -13,6 +13,10 @@ Compiled by [Benjamin E. Ujcich](https://personal.benujcich.georgetown.domains/)
 * [Exploiting Intent-Flow State Vulnerabilities in Intent-Based Networking](https://personal.benujcich.georgetown.domains/papers/25_SecDev.pdf), Angela Yan, Jiwon Kim, Benjamin E. Ujcich, Dave (Jing) Tian, **IEEE SecDev 2025**
 
 ## Translation and Compilation
+* [Hey, Lumi! Using Natural Language for Intent-Based Network Management](https://www.usenix.org/system/files/atc21-jacobs.pdf), Arthur S. Jacobs, Ricardo J. Pfitscher, Rafael H. Ribeiro, Ronaldo A. Ferreira, Lisandro Z. Granville, Walter Willinger, Sanjay G. Rao, **USENIX ATC 2021**
+* [Practical Intent-driven Routing Configuration Synthesis](https://www.usenix.org/system/files/nsdi23-ramanathan.pdf), Sivaramakrishnan Ramanathan, Ying Zhang, Mohab Gawish, Yogesh Mundada, Zhaodong Wang, Sangki Yun, Eric Lippert, Walid Taha, Minlan Yu, Jelena Mirkovic, **USENIX NSDI 2023**
+* [CEGS: Configuration Example Generalizing Synthesizer](https://www.usenix.org/system/files/nsdi25-liu-jianmin.pdf), Jianmin Liu, Li Chen, Dan Li, Yukai Miao, **USENIX NSDI 2025**
+* [Centralium: A Hybrid Route-Planning Framework for Large-Scale Data Center Network Migrations](https://dl.acm.org/doi/10.1145/3718958.3750519), Yikai Lin, Mohab Gawish, Shih-Hao Tseng, Lixin Gao, Cen Zhao, John Tracey, Sunyi Shao, Hyojeong Kim, Ying Zhang, **ACM SIGCOMM 2025**
 
 ## Surveys
 * [A Survey on Intent-Based Networking](https://doi.org/10.1109/COMST.2022.3215919), Aris Leivadeas, Matthias Falkner, **IEEE Communications Surveys and Tutorials 2023**
